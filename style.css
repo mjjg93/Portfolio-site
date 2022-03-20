@@ -1,0 +1,61 @@
+html 
+{
+background-color: rgb(241, 147, 147);
+        background-image: url("https://images.unsplash.com/photo-1543877087-ebf71fde2be1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80")
+}
+#web1
+{ color: #000000;
+    font-family: Chalkduster, fantasy; 
+    font-size: xx-large;
+    text-align: center;
+    border-color: rgba(0, 0, 0, 0.603);
+    border-style: groove;
+    border-width: 4px 8px 4px;
+}
+#web2
+{ font-family: Chalkduster, fantasy;
+    border: 5px solid;
+    font-size: xx-large;
+    font-variant-caps: all-small-caps;
+    text-align: center;
+    box-sizing: content-box border-box initial inherit;
+
+}
+#web3
+{
+    font-family: Chalkduster, fantasy; 
+    color: hsl(0, 0%, 0%);
+    font-display: bold;
+    font-size: large;
+    text-align: left;
+    border: #f8d8b1;
+    border-style: dotted;
+    box-sizing: border-box;
+}
+.center {
+    display: inline-block;
+    margin-left: 1%;
+    margin-right: 30%;
+    width: 30%;
+}
+.center1 {
+    display: block;
+    margin-left: 1%;
+    margin-right: 30%;
+    width: 30%;
+}
+.center2 {  
+    display: block;
+    margin-left: 1%;
+    margin-right: 30%;
+    width: 30%;
+}
+#web6
+{
+    
+    font-size: xx-large;
+    color: hsl(108, 45%, 98%);
+    font-family: Chalkduster, fantasy; 
+    margin-left: 2%;
+}
+
